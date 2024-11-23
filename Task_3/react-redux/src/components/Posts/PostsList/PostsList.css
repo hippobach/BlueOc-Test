@@ -1,0 +1,13 @@
+.list-posts-item {
+  list-style-type: none;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 16px;
+  padding: 12px;
+  max-height: 100px;
+}
+
+.list-posts-item:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
